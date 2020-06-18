@@ -8,4 +8,4 @@ You could see the graph of stream map below.
 
 iOS：
 
-![EN](/Users/jayce/Library/Mobile Documents/com~apple~CloudDocs/Jayce-Work/EN.png)
+![EN](https://github.com/zjsjayce/Client-Performance-Test/blob/master/iOS%20stream%20map.png)
