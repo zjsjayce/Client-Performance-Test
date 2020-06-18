@@ -1,0 +1,22 @@
+--path /Users/jayce/PerformanceOutput/NetEase/Article/1557282620  --scene tuwen --methods "{
+          'method_name': 'find_start_action_by_change',
+          'threshold': 0.97,
+          'add_to_milestone': True,
+          'sift': False,
+          'is_image_cut': True
+        }"
+        "{
+          'method_name': '_find_by_change_stop',
+          'threshold': 0.97,
+          'add_to_milestone': False,
+          'is_image_cut': True
+        }"
+        "{
+          'method_name': '_find_white_screen_dis_by_area',
+          'threshold': 0.95,
+          'add_to_milestone': True,
+          'x_1': 0.1,
+          'x_2': 0.9,
+          'y_1': 0.1,
+          'y_2': 0.25
+        }"

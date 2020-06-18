@@ -1,0 +1,141 @@
+{
+  "netease": {
+    "coldstart": {
+      "start": null,
+      "end": null,
+      "threshold_1": 0.85,
+      "threshold_2": 0.85,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "find_white_screen_more",
+        "_find_white_screen_dis_more",
+        "_find_diff_from_back_to_front"
+      ]
+    },
+    "list_refresh": {
+      "start": null,
+      "end": "tuijianhengtiao.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.41,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": [
+        "_find_by_image"
+      ]
+    },
+    "netease_tuwen": {
+      "start": null,
+      "end": null,
+      "threshold_1": 0.99,
+      "threshold_2": 0.98,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "_find_by_change_stop", "_find_white_screen_dis"
+      ]
+    },
+    "netease_tuji": {
+      "start": null,
+      "end": null,
+      "threshold_1": 0.99,
+      "threshold_2": 0.98,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "_find_diff_from_back_to_front"
+      ]
+    },
+    "netease_shipin_luodi":{
+      "start": null,
+      "end": null,
+      "threshold_1": 0.99,
+      "threshold_2": 0.98,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "_find_white_screen_dis_less", "_find_diff_by_area_change_from_back"
+      ]
+    },
+    "netease_shipin_shouzhen":{
+      "start": null,
+      "end": null,
+      "threshold_1": 0.99,
+      "threshold_2": 0.98,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "find_netease_shouzhen"
+      ]
+    }
+  },
+  "toutiao": {
+    "coldstart_toutiao": {
+      "start": null,
+      "end": null,
+      "threshold_1": 0.997,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "find_white_screen_more",
+        "_find_white_screen_dis_more"
+      ]
+    },
+    "list_refresh_toutiao": {
+      "start": null,
+      "end": "toutiao_hengfu.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": [
+        "_find_by_image"
+      ]
+    },
+    "toutiao_tuji": {
+      "start": null,
+      "end": null,
+      "threshold_1": 0.99,
+      "threshold_2": 0.98,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "_find_diff_from_back_to_front"
+      ]
+    },
+    "toutiao_shipin_luodi":{
+      "start": null,
+      "end": null,
+      "threshold_1": 0.99,
+      "threshold_2": 0.98,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "_find_diff_by_area_change_from_back"
+      ]
+    },
+        "toutiao_shipin_shouzhen":{
+      "start": null,
+      "end": null,
+      "threshold_1": 0.98,
+      "threshold_2": 0.99,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "find_netease_shouzhen"
+      ]
+    },
+    "toutiao_tuwen": {
+      "start": null,
+      "end": null,
+      "threshold_1": 0.99,
+      "threshold_2": 0.98,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": [
+        "_find_by_change_stop", "_find_white_screen_dis"
+      ]
+    }
+  }
+}

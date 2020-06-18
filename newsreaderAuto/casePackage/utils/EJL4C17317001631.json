@@ -1,0 +1,488 @@
+{
+  "netease": {
+    "coldstart": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.8,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.75,
+          "add_to_milestone": false,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.75,
+          "add_to_milestone": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.3,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "hotstart": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.8,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.75,
+          "add_to_milestone": false,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.75,
+          "add_to_milestone": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.3,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "list_refresh": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_by_image",
+          "threshold": 0.41,
+          "add_to_milestone": true,
+          "sift": true,
+          "is_image_cut": true,
+          "filename": "tuijianhengtiao2.png"
+        }
+      ]
+    },
+    "netease_tuwen": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.97,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_by_change_stop",
+          "threshold": 0.97,
+          "add_to_milestone": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis",
+          "num": 0.30,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "netease_tuji": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis",
+          "num": 0.25,
+          "add_to_milestone": false
+        },
+        {
+          "method_name": "_find_diff_from_back_to_front",
+          "threshold": 0.98,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        }
+      ]
+    },
+    "netease_shipin_luodi": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.30,
+          "add_to_milestone": false
+        },
+        {
+          "method_name": "_find_white_screen_dis",
+          "num": 0.20,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "netease_shipin_shouzhen": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_diff_by_area_change",
+          "threshold": 0.97,
+          "add_to_milestone": true,
+          "x_1": 0.05,
+          "y_1": 0.15,
+          "x_2": 0.95,
+          "y_2": 0.45
+        }
+      ]
+    }
+  },
+  "toutiao": {
+    "coldstart_toutiao": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.997,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.8,
+          "add_to_milestone": false,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.8,
+          "add_to_milestone": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.3,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "hotstart_toutiao": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.997,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.8,
+          "add_to_milestone": false,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.8,
+          "add_to_milestone": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.3,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "list_refresh_toutiao": {
+      "start": null,
+      "end": "toutiao_hengfu.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": [
+        "_find_by_image"
+      ]
+    },
+    "toutiao_tuji": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis",
+          "num": 0.25,
+          "add_to_milestone": false
+        },
+        {
+          "method_name": "_find_diff_from_back_to_front",
+          "threshold": 0.98,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        }
+      ]
+    },
+    "toutiao_shipin_luodi": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.30,
+          "add_to_milestone": false
+        },
+        {
+          "method_name": "_find_white_screen_dis",
+          "num": 0.20,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "toutiao_shipin_shouzhen": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_diff_by_area_change",
+          "threshold": 0.97,
+          "add_to_milestone": true,
+          "x_1": 0.05,
+          "y_1": 0.15,
+          "x_2": 0.95,
+          "y_2": 0.45
+        }
+      ]
+    },
+    "toutiao_tuwen": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.97,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_by_change_stop",
+          "threshold": 0.97,
+          "add_to_milestone": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis",
+          "num": 0.30,
+          "add_to_milestone": true
+        }
+      ]
+    }
+  },
+  "tencent": {
+    "coldstart_tencent": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.7,
+          "add_to_milestone": true,
+          "sift": true,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.7,
+          "add_to_milestone": false,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.7,
+          "add_to_milestone": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.3,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "hotstart_tencent": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.7,
+          "add_to_milestone": true,
+          "sift": true,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.7,
+          "add_to_milestone": false,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.7,
+          "add_to_milestone": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.3,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "tencent_shipin_luodi": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_diff_by_area_change_from_back",
+          "threshold": 0.9,
+          "x_1": 0.1,
+          "y_1": 0.45,
+          "x_2": 0.9,
+          "y_2": 0.9,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "tencent_shipin_shouzhen": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_diff_by_area_change",
+          "threshold": 0.97,
+          "add_to_milestone": true,
+          "x_1": 0.05,
+          "y_1": 0.15,
+          "x_2": 0.95,
+          "y_2": 0.45
+        }
+      ]
+    },
+    "tencent_tuwen": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.97,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_by_change_stop",
+          "threshold": 0.97,
+          "add_to_milestone": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis",
+          "num": 0.30,
+          "add_to_milestone": true
+        }
+      ]
+    },
+    "tencent_tuji": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.99,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis",
+          "num": 0.25,
+          "add_to_milestone": false
+        },
+        {
+          "method_name": "_find_diff_from_back_to_front",
+          "threshold": 0.98,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        }
+      ]
+    }
+  },
+  "baidu": {
+    "coldstart_baidu": {
+      "method_dicts": [
+        {
+          "method_name": "find_start_action_by_change",
+          "threshold": 0.7,
+          "add_to_milestone": true,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "find_white_screen_more",
+          "threshold": 0.7,
+          "add_to_milestone": false,
+          "sift": false,
+          "is_image_cut": true
+        },
+        {
+          "method_name": "_find_white_screen_dis_more",
+          "threshold": 0.7,
+          "add_to_milestone": true
+        }
+      ]
+    }
+  }
+}

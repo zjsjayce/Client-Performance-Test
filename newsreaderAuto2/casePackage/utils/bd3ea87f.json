@@ -1,0 +1,550 @@
+{
+  "searchbox":{
+    "test":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_video_play_from_landing_page"]
+    },
+    "small_program_1":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/uc_search_query.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.5,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["find_white_screen", "_find_white_screen_dis"]
+    },
+    "search_query_result":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/uc_search_query.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.5,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["find_white_screen", "_find_white_screen_dis"]
+    },
+    "feed_list_refresh_nid":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_list_refresh_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.5,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["find_by_change"]
+    },
+    "feed_shipin_pindao_pinglun":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_pinglun.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "feed_shipin_tuijian":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_pinglun.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "feed_tuji_text":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_tuji_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.6,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image"]
+    },
+    "feed_tuwen_picture":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_tuwen_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_diff_from_back_to_front"]
+    },
+    "feed_tab_picture":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_tab_image.png",
+      "threshold_1": 0.995,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "feed_list_refresh_picture":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_list_image.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "feed_shipin_from_tuijian_list":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_end.png",
+      "threshold_1": 0.998,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "start_method": true,
+      "method_list": ["_find_start_action_by_oprtion_change", "_find_by_image", "_check_grey_loading_page", "_find_video_play_from_landing_page"]
+    },
+    "night_start_hot_feed":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/end_night.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.7,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_start_feed_night"]
+    },
+    "night_start_hot":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/end_night.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.7,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_start_feed"]
+    },
+    "night_start_cool":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/end_night.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.7,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_start_feed"]
+    },
+    "night_start_cool_feed":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/end_night.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.7,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_start_feed_night"]
+    },
+    "start_cool_feed":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/end.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.7,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_start_feed"]
+    },
+    "start_hot_feed":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/end.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.7,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_start_feed"]
+    },
+    "start_cool":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image"]
+    },
+    "start_hot":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/end.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.7,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image"]
+    },
+    "feed_tuwen":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_tuwen_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.35,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_white_screen_dis"]
+    },
+    "feed_tuji":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_tuji_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_diff_from_back_to_front"]
+    },
+    "feed_shipin":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_video_play_from_landing_page"]
+    },
+    "search_query":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/search_query_end.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.97,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "feed_list_refresh":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_list_refresh_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.5,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["find_by_change"]
+    },
+    "feed_shipin_from_list":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_from_list_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.7,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_video_start_from_list"]
+    },
+    "feed_shipin_from_pindao":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_from_pindao_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_video_start_from_list"]
+    },
+    "feed_tab":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_tab_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "feed_shouye_refresh":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_list_refresh_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image"]
+    }
+  },
+  "toutiao":{
+    "feed_shipin_pindao_pinglun":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_shipin_end.png",
+      "threshold_1": 0.998,
+      "threshold_2": 0.6,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["find_white_screen", "_find_white_screen_dis"]
+    },
+    "feed_shipin_from_tuijian_list":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_shipin_end.png",
+      "threshold_1": 0.995,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "start_method": true,
+      "method_list": ["_find_start_action_by_oprtion_change", "video_loading_page_white",
+        "check_video_player_black"]
+    },
+    "feed_shipin_tuijian":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_shipin_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.3,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["video_loading_page_white", "_find_white_screen_dis"]
+    },
+    "feed_tuji_text":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/tuji_toutiao.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image"]
+    },
+    "feed_tuwen_picture":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_tuwen_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.95,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_diff_from_back_to_front"]
+    },
+    "feed_tab_picture":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_list_image_toutiao.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_start_feed", "_find_by_image_dis"]
+    },
+    "feed_list_refresh_picture":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_list_image_toutiao.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "night_start_hot_feed":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/start_night_toutiao.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.6,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_start_feed_night"]
+    },
+    "night_start_cool_feed":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/start_night_toutiao.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.6,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_start_feed_night"]
+    },
+    "night_start_hot":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/start_night_toutiao.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.6,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image"]
+    },
+    "night_start_cool":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/start_night_toutiao.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.6,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image"]
+    },
+    "start_hot_feed":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_start_hot.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_start_feed"]
+    },
+    "start_cool_feed":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_start_end.png",
+      "threshold_1": 0.998,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_start_feed"]
+    },
+    "start_cool":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_start_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image"]
+    },
+    "start_hot":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_start_hot.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image"]
+    },
+    "feed_tuwen":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_tuwen_toutiao.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "feed_tuji":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_tuji.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_update_end_image", "_find_by_image_dis", "_find_by_image"]
+    },
+    "feed_shipin":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_shipin_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.6,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["video_loading_page_white", "_find_video_play_from_landing_page"]
+    },
+    "feed_shipin_from_pindao":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_from_pindao_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_video_start_from_list", "_video_start_from_list"]
+    },
+    "feed_shipin_from_list":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/feed_shipin_from_pindao_end.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_video_start_from_list", "_video_start_from_list"]
+    },
+    "feed_tab":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_feed_tab.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["find_white_screen", "_find_white_screen_dis"]
+    },
+    "feed_list_refresh":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/toutiao_feed_list_refresh.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.5,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["find_by_change"]
+    }
+  },
+  "uc":{
+    "search_query":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/uc_search_query.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "search_query_result":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/uc_search_query.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["find_white_screen", "_find_white_screen_dis"]
+    }
+  },
+  "qq":{
+    "search_query":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/qq_search_query.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis", "_find_white_screen_dis"]
+    },
+    "search_query_result":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/uc_search_query.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.5,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["find_by_change", "_find_white_screen_dis"]
+    }
+  },
+  "chrome":{
+    "baidu":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/chrome_search_query_baidu.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    }
+  },
+  "quark":{
+    "search_query":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/quark_search_query_end.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": true,
+      "method_list": ["_find_by_image", "_find_white_screen_dis"]
+    },
+    "search_query_result":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/uc_search_query.png",
+      "threshold_1": 0.99,
+      "threshold_2": 0.5,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["find_white_screen", "_find_white_screen_dis"]
+    }
+  },
+  "netdisk":{
+    "image_list":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/netdisk_image_list.png",
+      "threshold_1": 0.995,
+      "threshold_2": 0.8,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_by_image", "_find_by_image_dis"]
+    },
+    "open_image":{
+      "start":null,
+      "end":"/home/jenkins/Source/LRP/lrp/res/netdisk_image_list.png",
+      "threshold_1": 0.999,
+      "threshold_2": 0.9,
+      "comp_previous_1": true,
+      "sift": false,
+      "method_list": ["_find_diff_from_back_to_front"]
+    }
+  }
+}

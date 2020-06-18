@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56ec8714-a6b0-4520-9da7-ca9f4094d981" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Case/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/BaiduApp/Pictures/Pictures.air/Pictures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/BaiduApp/Pictures/Pictures.air/Pictures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/BaiduApp/Pictures/Pictures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/BaiduApp/Pictures/Pictures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Article/Article.air/Article.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Article/Article.air/Article.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Article/Article.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Article/Article.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Launch Json配置 上午10.48.45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Launch/--path :Users:jayce:PerformanceOutput:NetEase:Laun" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Launch/--path :Users:jayce:PerformanceOutput:NetEase:Laun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Launch/Launch.air/Launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Launch/Launch.air/Launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Launch/Launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Launch/Launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/LaunchApp.air/LaunchApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/LaunchApp.air/LaunchApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Pictures/EnterPictures.air/EnterPictures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Pictures/EnterPictures.air/EnterPictures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Pictures/Pictures.air/Pictures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Pictures/Pictures.air/Pictures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Pictures/Pictures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Pictures/Pictures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Refresh-toutiao/Refresh-toutiao.air/Refresh-toutiao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Refresh-toutiao/Refresh-toutiao.air/Refresh-toutiao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/Refresh-toutiao/Refresh-toutiao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/Refresh-toutiao/Refresh-toutiao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/VideoArticle/VideoArticle.air/VideoArticle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/VideoArticle/VideoArticle.air/VideoArticle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/VideoArticle/VideoArticle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/VideoArticle/VideoArticle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/VideoArticle/VideoArticleLaunch.air/LaunchApp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/VideoArticleLaunch.air/VideoArticleLaunch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/VideoArticleLaunch.air/VideoArticleLaunch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/VideoPlay/VideoPlay.air/VideoPlay.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/VideoPlay/VideoPlay.air/VideoPlay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case/NetEase/VideoPlay/VideoPlay.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Case/NetEase/VideoPlay/VideoPlay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PreLaunch Script.md" beforeDir="false" afterPath="$PROJECT_DIR$/../PreLaunch Script.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casePackage/otherThread/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/casePackage/otherThread/env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/D:\testGetTime1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/D:\testGetTime1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/get_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/get_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/combine_single_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/report/combine_single_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/report/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/generate_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/report/generate_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/netease_framework.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/netease_framework.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/newsreaderAuto$get_time.coverage" NAME="get_time Coverage Results" MODIFIED="1581655064923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/newsreaderAuto$generate_html.coverage" NAME="generate html Coverage Results" MODIFIED="1575533926804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newsreaderAuto$get_time__1_.coverage" NAME="get_time (1) Coverage Results" MODIFIED="1558684817249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2127105972">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="42" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.18" value="5" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="CsvOutput" value="1" />
+          <entry key="PNG" value="1" />
+          <entry key="ini" value="7" />
+          <entry key="json" value="7" />
+          <entry key="png" value="23" />
+          <entry key="py" value="73" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="24" />
+          <entry key="Ini" value="7" />
+          <entry key="JSON" value="7" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="CsvOutput" value="1" />
+          <entry key="ini" value="1" />
+          <entry key="json" value="4" />
+          <entry key="py" value="887" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ini" value="1" />
+          <entry key="JSON" value="4" />
+          <entry key="Python" value="888" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/get_time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+              <folding>
+                <element signature="e#46#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/casePackage/utils/573a521e.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9408">
+              <caret line="392" column="22" selection-start-line="392" selection-start-column="22" selection-end-line="392" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>write</find>
+      <find>_find_diff_from_back_to_front</find>
+      <find>__main__</find>
+      <find>coldstart-noad</find>
+      <find>else</find>
+      <find>adb</find>
+      <find>CSVDIR</find>
+      <find>device_case_app_once)</find>
+      <find>device</find>
+      <find>json</find>
+      <find>find_start_action_by_change</find>
+      <find>mile_stone[1]</find>
+      <find>find_start_action_by_change&quot;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/CsvOutput" />
+        <option value="$PROJECT_DIR$/report/constants.py" />
+        <option value="$PROJECT_DIR$/report/combine_single_csv.py" />
+        <option value="$USER_HOME$/Code/yuting/newsreaderAuto/report/combine_single_csv.py" />
+        <option value="$PROJECT_DIR$/report/generate_html.py" />
+        <option value="$PROJECT_DIR$/core/get_time.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
+    <option name="y" value="23" />
+    <option name="width" value="1453" />
+    <option name="height" value="931" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="newsreaderAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsreaderAuto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsreaderAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsreaderAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="casePackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsreaderAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsreaderAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="casePackage" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsreaderAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsreaderAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsreaderAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsreaderAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.get_time">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="newsreaderAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="--path $USER_HOME$/PerformanceOutput/NetEase/Launch/1556098969  --methods &quot;{           'method_name': 'find_start_action_by_change',           'threshold': 0.8,           'add_to_milestone': True,           'sift': False,           'is_image_cut': True         }&quot; &quot;{           'method_name': 'find_white_screen',           'threshold': 0.75,           'add_to_milestone': False         }&quot; &quot;{           'method_name': '_find_white_screen_dis',           'threshold': 0.8,           'add_to_milestone': True         }&quot;  &quot;{           'method_name': '_find_by_image',           'threshold': 0.6,           'add_to_milestone': False,           'sift':True,           'filename': 'netease_framework.png',           'is_image_cut': False         }&quot; &quot;{           'method_name': '_find_white_screen_dis',           'threshold': 0.3,           'add_to_milestone': True         }&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate html" type="PythonConfigurationType" factoryName="Python">
+      <module name="newsreaderAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/report/generate_html.py" />
+      <option name="PARAMETERS" value="--csvDir $USER_HOME$/netease/jenkins/workspace/iOS-Performance-Test/CSV --htmlPath $USER_HOME$/netease/jenkins/workspace/iOS-Performance-Test/HTML" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_time (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newsreaderAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/get_time.py" />
+      <option name="PARAMETERS" value="--scene coldstart  --path $USER_HOME$/PerformanceOutput/NetEase/Launch/1558080259 --methods &quot;{           'method_name': 'find_start_action_by_change',           'threshold': 0.8,           'add_to_milestone': True,           'sift': False,           'is_image_cut': True         }&quot; &quot;{           'method_name': 'find_white_screen',           'threshold': 0.75,           'add_to_milestone': False         }&quot; &quot;{           'method_name': '_find_white_screen_dis',           'threshold': 0.8,           'add_to_milestone': True         }&quot;  &quot;{           'method_name': '_find_by_image',           'threshold': 0.6,           'add_to_milestone': False,           'sift':True,           'filename': 'netease_framework.png',           'is_image_cut': False         }&quot; &quot;{           'method_name': '_find_white_screen_dis',           'threshold': 0.3,           'add_to_milestone': True         }&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_time" type="PythonConfigurationType" factoryName="Python">
+      <module name="newsreaderAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/get_time.py" />
+      <option name="PARAMETERS" value="--scene tuwen --path $USER_HOME$/PerformanceOutput/NetEase/Article/1581653677  --methods &quot;{           'method_name': 'find_start_action_by_change',           'threshold': 0.97,           'add_to_milestone': True,           'sift': False,           'is_image_cut': True         }&quot; &quot;{           'method_name': '_find_by_change_stop',           'threshold': 0.97,           'add_to_milestone': False,           'is_image_cut': True         }&quot; &quot;{           'method_name': '_find_white_screen_dis_by_area',           'threshold': 0.95,           'add_to_milestone': True,           'x_1': 0.1,           'x_2': 0.9,           'y_1': 0.1,           'y_2': 0.25         }&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.get_time" />
+      <item itemvalue="Python.generate html" />
+      <item itemvalue="Python.get_time (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_time (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56ec8714-a6b0-4520-9da7-ca9f4094d981" name="Default Changelist" comment="" />
+      <created>1555900543695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555900543695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="31" y="23" width="1453" height="931" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20853406" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49827942" visible="true" weight="0.25295508" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5017206" side_tool="true" weight="0.3144208" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49854013" weight="0.40958905" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49927008" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.329927" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.329927" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.329927" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32919708" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19785379" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31631383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.15240328" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32967743" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/report/combine_single_csv.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/report/combine_single_csv.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/casePackage/newsreader/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/cv.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/retry.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/logger.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/newsreader/biz/netease/coldstart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/abstract_case/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/utils/adb_shell_cmd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3408">
+          <caret line="153" column="110" selection-start-line="153" selection-start-column="110" selection-end-line="153" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/utils/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/abstract_case/biz_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/newsreader/biz/netease/coldstart_newuser.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/abstract_case/basic_case.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/newsreader/biz/netease/shipin_luodi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/tuwen_gentie.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/video_player_black_p10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/white_image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/tuwen_toutiao_p10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/tuijianhengtiao2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/toutiao_hengfu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/tuijianhengtiao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/video_player_black.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/test.txt" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39768">
+          <caret line="1657" selection-start-line="1657" selection-end-line="1657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2136">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/android_perform_result.txt" />
+    <entry file="file://$PROJECT_DIR$/report/generate_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/yuting/newsreaderAuto/report/combine_single_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1344">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/combine_single_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6624">
+          <caret line="276" column="29" selection-start-line="276" selection-start-column="29" selection-end-line="276" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/device.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/otherThread/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2328">
+          <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/otherThread/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/otherThread/timeoutMonitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configRunner.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/logwraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/utils/SJE0217C28004070.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/utils/bd3ea87f.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/utils/XPU4C17112010268.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/newsreader/image/XPU4C17112010268XPU4C17112010268.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/netdisk_image_list.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/netease_framework.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/shipinhengtiao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/tencent_hengtiao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/toutiao_framework.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/grey.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/utils/EJL4C17317001631.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/get_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casePackage/utils/573a521e.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9408">
+          <caret line="392" column="22" selection-start-line="392" selection-start-column="22" selection-end-line="392" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

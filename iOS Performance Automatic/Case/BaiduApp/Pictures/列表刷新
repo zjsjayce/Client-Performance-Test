@@ -1,0 +1,16 @@
+--path /Users/jayce/PerformanceOutput/NetEase/Refresh-toutiao/1557297043  --scene  --methods 'method_dicts': [
+        "{
+          'method_name': 'find_start_action_by_change',
+          'threshold': 0.99,
+          'add_to_milestone': true,
+          'sift': false,
+          'is_image_cut': true
+        }"
+        "{
+          'method_name': '_find_by_image',
+          'threshold': 0.70,
+          'add_to_milestone': true,
+          'sift': true,
+          'is_image_cut': true,
+          'filename': 'tuijianhengtiao2.png'
+        }"
